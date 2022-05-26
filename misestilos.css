@@ -1,19 +1,16 @@
-body {background: #FCBC94; background-image: url(../Imagenes/cocina.jpg);background-repeat: no-repeat;background-attachment: fixed;}
-h1 {background:pink; font-family:verdana; font-size: 43px;}
-p { background-color:pink; font-family: monospace;}
+body {background-color:#BCF7CD ;background-image: url(../Imagenes/cocina.jpg.jpg;); background-repeat: no-repeat;background-attachment: fixed;}
+.TITULOA{display: flex; justify-content: center;font-size: 59px ;}
+h1 {font-family:verdana; font-size: 43px;}
+p {font-family: monospace;}
 .titulo{font-family: verdana ; font-size: 45px}
 .parrafo1{font-size: 30px; font-family: Magna;}
-ul{background-color: pink;font-family: monospace;}
+ul {font-family: monospace;}
 .lista1{font-size: 22px;}
 .lista2{font-size: 19px;}
 ol {background-color: pink;font-family: monospace;}
-h2 {background:pink;font-family: monospace;;}
+h2 {font-family: monospace;;}
 h3 {background: #F9675E ;font-family: monospace;;}
-nav{ background-color:pink;font-size:20px; display: flex; justify-content: space-around;}
-header{background-color: pink;
-margin: 1%;
-padding:20px;
-border: 10px black double;}
+nav{ background-color:#E8AAFC ;font-size:20px; display: flex; justify-content: space-around;}
 section{ background-color: pink;
 width: 48%;
 padding: 20px;
