@@ -1,4 +1,4 @@
-body {background-color:#FCDFCD; background-repeat: no-repeat;background-attachment: fixed; }
+body {background-image:url(.././Imagenes/fotocentral1.jpg);background-repeat;background-attachment: fixed; }
 .TITULOA{background-color: black; display: flex; justify-content: center;font-size: 59px ; color:#9B4C2C;font-family: Cambria;}
 h1 {font-size: 43px;color: #60153A}
 p {font-family: monospace;}
