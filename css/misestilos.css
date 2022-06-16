@@ -1,5 +1,5 @@
 body {background-image:url(.././Imagenes/fotocentral1.jpg);background-repeat;background-attachment: fixed; }
-.TITULOA{background-color: black; display: flex; justify-content: center;font-size: 59px ; color:#9B4C2C;font-family: Cambria;}
+.TITULOprinc{background-image:url(.././Imagenes/fondos7.jpg);  display: flex; justify-content: center;font-size: 100px ; color:red;font-style: italic; font-weight: bold;}
 h1 {font-size: 43px;color: #60153A}
 p {font-family: monospace;}
 .titulo{font-family: inherit;font-size:65px}
@@ -11,7 +11,7 @@ ul {font-family: monospace;}
 ol {background-color:;font-family: monospace;}
 h2 {font-family: monospace;;}
 h3 {background: #F9675E ;font-family: monospace;;}
-nav{ background-color:black ;font-size:35px; display: flex; justify-content: space-around;}
+nav{ background-image: url(../Imagenes/fondos7.jpg);font-size:47px; display: flex; justify-content: space-around;font-family: monospace; font-weight: bolder;}
 section{background-color:#F9C1B6;
 width: 48%;
 padding: 20px;
