@@ -1,18 +1,18 @@
-body {background-image:url(.././Imagenes/fotocentral1.jpg);background-repeat;background-attachment: fixed; }
-@font-face {font-family : letras; src: url(indonesia.ttf);}
-.TITULOprinc{background-image:url(.././Imagenes/madera.jpg);  display: flex; justify-content: center;font-size: 100px ; color:#FFC300 ;font-family:letras; font-weight: bold;}
+body {background-image:url(.././Imagenes/arena.jpg);;;background-repeat;background-attachment: fixed; }
+.TITULOprinc{background-image:url(.././Imagenes/madera.jpg);  display: flex; justify-content: center;font-size: 120px ; color: #FD9E64  ;font-family: 'Pacifico' sans-serif;;}
 h1 {font-size: 43px;color: #60153A}
 p {font-family: monospace;}
-.titulo{font-family: inherit;font-size:65px}
+.titulo{font-family: 'Potta One', cursive; font-size:65px}
 .parrafo1{font-size: 30px; font-family: sans-serif; color:#381907}
 .d-block{width:80%; height:20% ;}
+.turismo{font-family: 'Potta One', cursive; font-size:65px}
 ul {font-family: monospace;}
 .lista1{font-size: 22px;}
 .lista2{font-size: 19px;}
 ol {background-color:;font-family: monospace;}
 h2 {font-family: monospace;;}
 h3 {background: #F9675E ;font-family: monospace;;}
-nav{ background-image: url(../Imagenes/colores.webp);font-size:47px; display: flex; justify-content: space-around;font-family: monospace; font-weight: bolder;}
+nav{ background-image: url(../Imagenes/fondos7.avif);font-size:47px; display: flex; justify-content: space-around;font-family: monospace; font-weight: bolder;}
 section{background-color:#F9C1B6;
 width: 48%;
 padding: 20px;
@@ -33,8 +33,11 @@ clear: both;}
 .contactos{font-family:"verdana"; font-size:35px;}
 .boton{ font-size: 35%;}
 .efecto:hover{ width: 60%;}
-.merlot{background-color: #FECFBC;}
-.malbec{background-color: #FECFBC ;}
-.cabernet{background-color: #FECFBC;}
+.merlot{background-color: #FECFBC;
+border-radius: 15px;}
+.malbec{background-color: #FECFBC ;
+border-radius: 15px;}
+.cabernet{background-color: #FECFBC;
+border-radius: 15px;}
 .cards{display: flex;justify-content: space-around ;}
 .REDES{background-color: #DDD8D8}
